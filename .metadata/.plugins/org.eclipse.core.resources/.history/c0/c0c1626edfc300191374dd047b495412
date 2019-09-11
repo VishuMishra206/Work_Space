@@ -1,0 +1,23 @@
+
+public class employee 
+{ 
+	 int id;
+	 String name;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        employee e1= new employee();
+        employee e2= new employee();
+        System.out.println(e1.getname);
+        System.out.println(e2.getname);
+        replace(e1,e2);
+	}
+	public void replace(e1,e2)
+	{
+		employee temp;
+		temp=emp1;
+		emp1=emp2;
+		
+	}
+
+}
